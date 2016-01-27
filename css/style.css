@@ -1,0 +1,29 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Kimberley", sans-serif;
+}
+
+h3 {
+    text-align: center;
+    font-weight: normal;
+    width: 50%;
+    margin: 0 auto;
+}
+
+h2, h3 {
+    text-align: center;
+    padding: 10px;
+}
+
+.vis {
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+
+@font-face {
+  font-family: "Kimberley";
+  src: url(http://www.princexml.com/fonts/larabie/ »
+  kimberle.ttf) format("truetype");
+}
